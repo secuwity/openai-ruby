@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.1.0-beta.2 (2025-05-20)
+
+Full Changelog: [v0.1.0-beta.1...v0.1.0-beta.2](https://github.com/openai/openai-ruby/compare/v0.1.0-beta.1...v0.1.0-beta.2)
+
+### Features
+
+* **api:** further updates for evals API ([ae7a8b8](https://github.com/openai/openai-ruby/commit/ae7a8b8fc1611aa6f645c75f865d9ae6906d9a20))
+* **api:** Updating Assistants and Evals API schemas ([690b6a7](https://github.com/openai/openai-ruby/commit/690b6a78de30845f974695d0cc36a59a04adf65b))
+
+
+### Bug Fixes
+
+* correctly instantiate sorbet type aliases for enums and unions ([15a2b2b](https://github.com/openai/openai-ruby/commit/15a2b2bab52948f9dac83560dea419006589bd81))
+
+
+### Chores
+
+* **internal:** version bump ([b35ea63](https://github.com/openai/openai-ruby/commit/b35ea63d9758c4e96dd665013be2edb78ebaa8e6))
+* use sorbet union aliases where available ([600f499](https://github.com/openai/openai-ruby/commit/600f499dcf61b4d3c3a8cf092ff18cb712711dc0))
+
 ## 0.1.0-beta.1 (2025-05-16)
 
 Full Changelog: [v0.1.0-alpha.5...v0.1.0-beta.1](https://github.com/openai/openai-ruby/compare/v0.1.0-alpha.5...v0.1.0-beta.1)
